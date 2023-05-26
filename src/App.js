@@ -5,6 +5,7 @@ function App() {
   return (
     <>
     <MainDiv/>
+    <h1>ormoci kacebi</h1>
     </>
   );
 }
